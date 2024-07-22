@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+# Business Directory App Expo React Native IOS APP 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Mobile app tech stack
+- Creating React Native App with Expo
+- Adding Google Authentication using Clerk
+- Using Flatlist
+- React Navigation with Expo Router
+- Adding Expo Native Functionality
+- Backend Setup with Google Firebase
+- Adding CRUD operatiom, Add, Retirve, delete or Update Firebase Database
+- Image Picker from Device
+- React Expo Router Tab Navigation , Stack Navigation
 
-## Get started
+## React Native IOS mobile app features
+<img width="386" alt="BusinessDirectory1" src="https://github.com/user-attachments/assets/ed43a597-e30d-44ba-a1d5-d4b758047597">
+<img width="386" alt="BusinessDirectory2" src="https://github.com/user-attachments/assets/617fa8fa-b641-4e29-9caf-08c757e83281">
+<img width="386" alt="BusinessDirectory3" src="https://github.com/user-attachments/assets/f5c6e385-65aa-45f1-83a2-9b09db6aade1">
+<img width="386" alt="BusinessDirectory4" src="https://github.com/user-attachments/assets/1013afeb-cb58-48f6-8beb-ea1cca32053e">
+<img width="386" alt="BusinessDirectory5" src="https://github.com/user-attachments/assets/e430112a-9094-4ebe-8e53-5d7c2fd5f1b9">
+<img width="386" alt="BusinessDirectory6" src="https://github.com/user-attachments/assets/7cd5d32a-b3b6-4548-9bc0-a3a5be6d249a">
+<img width="386" alt="BusinessDirectory7" src="https://github.com/user-attachments/assets/3c078cbe-826c-4215-acb1-d82d61d69103">
+<img width="386" alt="BusinessDirectory8" src="https://github.com/user-attachments/assets/fc0db454-6a06-4ec1-9336-f10979ffa46f">
+<img width="386" alt="BusinessDirectory9" src="https://github.com/user-attachments/assets/78756294-565b-4f2b-a322-b0fcf235bc4e">
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Thank you so much tubeguruji for your knowledge and expertise.
